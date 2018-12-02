@@ -7,6 +7,9 @@
 # Log file
 *.log
 
+# Folders
+production/
+
 # BlueJ files
 *.ctxt
 

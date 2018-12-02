@@ -39,8 +39,7 @@ public class Frequency {
                     }
                 }
             }
-        } catch (
-                IOException e) {
+        } catch (IOException e) {
             throw new RuntimeException("File not found", e);
         }
 
